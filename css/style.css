@@ -1,7 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+h1 {
+  font-family: 'Baskerville';
+  
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -17,4 +20,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+img {
+  border-color: '156,172,166';
+  border-style: 
+}
